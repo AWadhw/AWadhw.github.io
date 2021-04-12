@@ -12,6 +12,7 @@ body {
     border: solid black 1px;
     border-radius: 10px;
     padding: 10px;
+    margin: 10px;
     width: max-content;
     box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
     transition: box-shadow linear 0.2s;
@@ -20,4 +21,8 @@ body {
 .button:hover {
     box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
     transition: box-shadow linear 0.2s;
+}
+
+.noselect {
+    user-select: none;
 }

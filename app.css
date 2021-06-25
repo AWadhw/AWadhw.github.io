@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #edf6f9;
+    
+}
+.azaan{
+    font-family: 'Parisienne', cursive;
+    color: black;
+}
+nav{
+    background-color: #006D77;
+    font-style: normal;
+}
+section a{
+    color: black;
+}
+section a:hover{
+    color: white;
+}
+li a{
+    color: black;
+}
+li a:hover{
+    color: white;
+}
+h1{
+    color: #E29578;
+}

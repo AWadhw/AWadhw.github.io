@@ -1,6 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #e7e7e7;
+    line-height: 2em;
+    font-size: 1.5em;
     
 }
 .azaan{
@@ -15,16 +17,19 @@ section a{
     color: black;
 }
 section a:hover{
-    color: white;
+    color: #14213d;
 }
 li a{
     color: black;
 }
 li a:hover{
-    color: white;
+    color: #14213d;
 }
 h1{
-    color: #E29578;
+    color: #ade8f4;
+}
+#introId h1{
+    color: black;
 }
 #mainImg{
     width: 85%;
@@ -35,6 +40,11 @@ h1{
 }
 
 #aboutMe{
-    background-color: teal;
+    background-color: #48cae4;
     height: 100vh;
+    color: rgb(43, 41, 41);
+    line-height: 2em;
 }
+/* #aboutMeHead {
+    margin-bottom: 30%;
+} */

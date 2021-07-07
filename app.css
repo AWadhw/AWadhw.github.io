@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #edf6f9;
+    background-color: #e7e7e7;
     
 }
 .azaan{
@@ -8,7 +8,7 @@ body{
     color: black;
 }
 nav{
-    background-color: #006D77;
+    
     font-style: normal;
 }
 section a{
@@ -25,4 +25,16 @@ li a:hover{
 }
 h1{
     color: #E29578;
+}
+#mainImg{
+    width: 85%;
+
+}
+#introId{
+    height: 90vh;
+}
+
+#aboutMe{
+    background-color: teal;
+    height: 100vh;
 }

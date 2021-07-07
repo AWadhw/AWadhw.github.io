@@ -1,0 +1,9 @@
+Hi! My name is Azaan and I enjoy creating things that use electricity and programmable logic. (Maybe
+                    that's how I ended up in Engineering)
+                    My interest in technology and electronics started when I enrolled in project courses at university
+                    involving microcontrollers (Such as the EFM8 and the PIC32)
+                    and created technologies which could ease accessibility. Studying Electrical Engineering at the
+                    University of British Columbia
+                    led me to discover my thirst for learning more about computer systems and electrical engineering
+                    theory. From learning how transistors compute
+                    to making my own RISC machine on the DE1-SOC, I have become even more passionate about technology.

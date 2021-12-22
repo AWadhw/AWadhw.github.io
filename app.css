@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #e7e7e7;
     line-height: 2em;
-    font-size: 1em;
+    font-size: 1.25em;
     
 }
 b{
@@ -11,10 +11,17 @@ b{
 .azaan{
     font-family: 'Parisienne', cursive;
     color: black;
+    font-size: 1.25em;
+}
+.azaan:hover{
+    color: #14213d;
 }
 nav{
     
     font-style: normal;
+}
+#aboutMeHead{
+    font-size: 2.5em;
 }
 section a{
     color: black;
@@ -41,18 +48,30 @@ h1{
     width: 85%;
     border-style: solid;
 }
-
-#aboutMe{
-    background-color: #48cae4;
-    height: 100vh;
-    color: rgb(43, 41, 41);
-    line-height: 2em;
+#aboutCard{
+    background-color: #f1faee;
 }
+
+
 /* #aboutMeHead {
     margin-bottom: 30%;
 } */
-#projectSec{
-    background-color: darkgray;
-    height: 100vh;
-    color: rgb(43, 41, 41);
+
+@media screen and (min-width: 992px) {
+    #aboutMe{
+        background-color: #ffffff;
+        height: 100vh;
+        color: rgb(43, 41, 41);
+        line-height: 2em;
+    }
+    #projectSec{
+        background-color: darkgray;
+        height: 100vh;
+        color: rgb(43, 41, 41);
+    }
+}
+@media screen and (max-width: 992px) {
+    body{
+        font-size: 1em;
+    }
 }

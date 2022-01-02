@@ -68,9 +68,13 @@ h1{
         line-height: 2em;
     }
     #projectSec{
-        background-color: darkgray;
+        background-color: #fffff0;
         height: 100vh;
-        color: rgb(43, 41, 41);
+        /* color: rgb(43, 41, 41); */
+    }
+    #contactMeSec{
+        background-color: #fffff0;
+        height: 100vh;
     }
 }
 @media screen and (max-width: 992px) {

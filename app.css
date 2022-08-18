@@ -53,6 +53,17 @@ h1{
 #aboutCard{
     background-color: #f1faee;
 }
+#projectCarousel{
+    background-color: #14213d;
+}
+.projImg{
+    max-width: 50%;
+
+    border-style: solid;
+}
+#carouselExampleControls{
+    background-color: #14213d;
+}
 
 
 /* #aboutMeHead {

@@ -57,9 +57,10 @@ h1{
     background-color: #14213d;
 }
 .projImg{
-    max-width: 50%;
+     border: 1px solid;
 
-    border-style: solid;
+    /* height: 15em;
+    width: 15em  */
 }
 #carouselExampleControls{
     background-color: #14213d;

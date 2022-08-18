@@ -9,7 +9,7 @@ b{
     font-weight: 650;
 }
 .azaan{
-    font-family: 'Parisienne', cursive;
+    font-family: 'Raleway', sans-serif;
     color: black;
     font-size: 1.25em;
 }
@@ -17,7 +17,6 @@ b{
     color: #14213d;
 }
 nav{
-    
     font-style: normal;
 }
 .navbar{
@@ -68,7 +67,7 @@ h1{
         line-height: 2em;
     }
     #projectSec{
-        background-color: #fffff0;
+        background-color: #ffffff;
         height: 100vh;
         /* color: rgb(43, 41, 41); */
     }

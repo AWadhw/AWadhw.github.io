@@ -38,7 +38,7 @@ li a:hover{
     color: #14213d;
 }
 h1{
-    color: #ade8f4;
+    color: #c8f7fa;
 }
 #introId {
     height: 100vh;
@@ -51,10 +51,10 @@ h1{
     border-style: solid;
 }
 #aboutCard{
-    background-color: #f1faee;
+    background-color: #c4f2f3;
 }
-#projectCarousel{
-    background-color: #14213d;
+#mainAboutMe{
+    color: #000000;
 }
 .projImg{
      border: 1px solid;
@@ -64,6 +64,13 @@ h1{
 }
 #carouselExampleControls{
     background-color: #14213d;
+}
+.card-title{
+    font-weight: 650;
+}
+.card-text{
+    font-size: 0.80em;
+    line-height: 135%;
 }
 
 
@@ -80,7 +87,7 @@ h1{
     }
     #projectSec{
         background-color: #ffffff;
-        height: 100vh;
+        
         /* color: rgb(43, 41, 41); */
     }
     #contactMeSec{

@@ -7,3 +7,5 @@ Hi! My name is Azaan and I enjoy creating things that use electricity and progra
                     led me to discover my thirst for learning more about computer systems and electrical engineering
                     theory. From learning how transistors compute
                     to making my own RISC machine on the DE1-SOC, I have become even more passionate about technology.
+
+					This is a sample string added to test if pushing can still be done to the repository.
